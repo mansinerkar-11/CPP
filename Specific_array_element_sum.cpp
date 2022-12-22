@@ -21,3 +21,5 @@ int main()
     cout<<"The addition of 3&5&7 is "<<temp<<endl;
     return 0;
 }
+
+// end of program
