@@ -71,7 +71,7 @@ int main()
     {
         for(int z=0; z<4; z++)
         {
-            if(y>z)
+            if(y+z>=3)
             {
                 cout<<"* ";
             }
