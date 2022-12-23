@@ -71,7 +71,7 @@ int main()
     {
         for(int z=0; z<4; z++)
         {
-            if(y+z>=3)
+            if(y+z>=4-1)  //4-1 because you array size is 4 and its index starts from 0 
             {
                 cout<<"* ";
             }
