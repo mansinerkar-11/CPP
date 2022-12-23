@@ -56,9 +56,9 @@ int main()
     /*
     --Program to draw the following pattern
         
-*    
-* *   
-* * *  
+   *    
+  * *   
+ * * *  
 * * * * 
  * * * 
   * * 
