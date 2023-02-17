@@ -1,11 +1,16 @@
-void selectionSort(int a[], int n) {
-//    int i, j, min, temp;
-//    for (i = 0; i < n - 1; i++) {
-//       min = i;
-//       for (j = i + 1; j < n; j++)
-//       if (a[j] < a[min])
-//       min = j;
-//       temp = a[i];
-//       a[i] = a[min];
-//       a[min] = temp;
-//    }
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    int n=5;
+    int a[]={4,5,0,7,2};
+    sort(a,a+n-0);
+    for(int i=0;i<n;i++)
+    {
+        cout<<a[i]<<" ";
+    }
+    cout<<endl;
+    return 0;
+
+}
