@@ -10,7 +10,7 @@ int main()
      cout<<v.back() <<" "<<endl;   //output last element of vector
      cout<<"Element is poped.........!"<<endl;
      v.pop_back();
-     cout<<"\nArray after pop operation..."<<endl;
+     cout<<"\nArray after pop operation..........."<<endl;
     while (!v.empty() )            //until vector is empty
     {
             for(int i=0; i<v.size(); ++i) 
