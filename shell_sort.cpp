@@ -1,5 +1,3 @@
-//program to perform shell sort
-
 #include<iostream>
 using namespace std;
 
