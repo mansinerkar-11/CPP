@@ -1,4 +1,5 @@
-//Practical 01
+//program to perform shell sort
+
 #include<iostream>
 using namespace std;
 
